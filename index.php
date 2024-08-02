@@ -710,7 +710,7 @@ $result = mysqli_query($conn, $sql);
                 <div class="qrc_profile_inner_info">
                     <h2>Utkarsh</h2>
                     <p>Indian Institute of Technology</p>
-                    <p><strong>MTech-Research Student</strong></p>
+                    <p><strong>Research Student</strong></p>
                 </div>
             </div>
             <div class="qrc_profile_shortcut">
@@ -725,7 +725,7 @@ $result = mysqli_query($conn, $sql);
         <div class="section qrc_heading_text qr_cc_card">
             <h2>About Me</h2>
             <p>Hi, Utkash side, <br>
-                I am computer science engineer post graduate from Indian Institute of Technology, and graguade from Thapar institute of technology.
+                I am computer science engineer graduate from Indian Institute of Technology.
             </p>
         </div>
         <div class="section qrc_contact qr_cc_card">
